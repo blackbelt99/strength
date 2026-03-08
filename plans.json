@@ -1,0 +1,107 @@
+{
+  "minecraft": [
+    {
+      "name": "Dirt Plan",
+      "ram": "2GB",
+      "cpu": "80%",
+      "storage": "8GB NVMe SSD",
+      "database": "Unlimited",
+      "price": 59,
+      "color": "#8B4513"
+    },
+    {
+      "name": "Wooden Plan",
+      "ram": "4GB",
+      "cpu": "100%",
+      "storage": "10GB NVMe SSD",
+      "database": "Unlimited",
+      "price": 99,
+      "color": "#DEB887"
+    },
+    {
+      "name": "Stone Plan",
+      "ram": "6GB",
+      "cpu": "150%",
+      "storage": "15GB NVMe SSD",
+      "database": "Unlimited",
+      "price": 199,
+      "color": "#808080"
+    },
+    {
+      "name": "Iron Plan",
+      "ram": "8GB",
+      "cpu": "200%",
+      "storage": "20GB NVMe SSD",
+      "database": "Unlimited",
+      "price": 299,
+      "color": "#C0C0C0",
+      "popular": true
+    },
+    {
+      "name": "Emerald Plan",
+      "ram": "12GB",
+      "cpu": "250%",
+      "storage": "25GB NVMe SSD",
+      "database": "Unlimited",
+      "price": 399,
+      "color": "#50C878"
+    },
+    {
+      "name": "Diamond Plan",
+      "ram": "16GB",
+      "cpu": "300%",
+      "storage": "30GB NVMe SSD",
+      "database": "Unlimited",
+      "price": 499,
+      "color": "#00BFFF"
+    },
+    {
+      "name": "Netherite Plan",
+      "ram": "20GB",
+      "cpu": "300%",
+      "storage": "40GB NVMe SSD",
+      "database": "Unlimited",
+      "price": 599,
+      "color": "#4A4A4A"
+    },
+    {
+      "name": "Titanium Plan",
+      "ram": "32GB",
+      "cpu": "400%",
+      "storage": "50GB NVMe SSD",
+      "database": "Unlimited",
+      "price": 999,
+      "color": "#9932CC"
+    }
+  ],
+  "vps": [
+    {
+      "name": "Starter VPS",
+      "ram": "2GB",
+      "cpu": "2 vCPU",
+      "storage": "20GB NVMe SSD",
+      "bandwidth": "1TB",
+      "price": 199,
+      "color": "#4169E1"
+    },
+    {
+      "name": "Pro VPS",
+      "ram": "4GB",
+      "cpu": "4 vCPU",
+      "storage": "40GB NVMe SSD",
+      "bandwidth": "2TB",
+      "price": 399,
+      "color": "#1E90FF",
+      "popular": true
+    },
+    {
+      "name": "Elite VPS",
+      "ram": "8GB",
+      "cpu": "6 vCPU",
+      "storage": "80GB NVMe SSD",
+      "bandwidth": "4TB",
+      "price": 799,
+      "color": "#00CED1"
+    }
+  ]
+}
